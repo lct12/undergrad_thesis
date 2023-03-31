@@ -1,5 +1,7 @@
-# undergrad_thesis
-Undergraduate Thesis
+# Undergrad_thesis
+## Description of Research
 This was my undergraduate dissertation at Northwestern University, which received the Frederick Deibler Prize from the Department of Economics.
 In my dissertation, I investigated why students at "elite" universities so often choose career paths in finance and consulting. I first designed and adminstered a survey that measured students' expectations about their job outcomes (salary, level of enjoyment, etc.), conditional on job path, as well as other demographic and personal characteristics that have been identified in previous research as potential drivers behind the preference for finance or consulting jobs. Using the data from this study as well as a discrete choice random utility econometric model that I created, I estimated a logit model to examine what factors led to individuals' choices about applying to jobs in these career paths. I found that students had heterogenous and highly uncertain beliefs about future job outcomes, although older and more experienced students demonstrated less uncertainty. I also found that students’ expectations became more accurate as they receive more information, such as in the form of an internship. Finally, I found that demographics (family income, race, gender, major), as well as the promise of future job offers, were significantly correlated with the decision to apply to a finance or consulting job.
+
+## Contents
 I have not included any of the code, as it is all in Stata, which I no longer use, but the paper is reproduced in full here.
